@@ -1,3 +1,7 @@
 Este es un archivo de prueba del uso de Git
 
 Estamos probando el uso de los comandos de Git
+
+Esta es la segunda clase con comandos
+
+Veremos
