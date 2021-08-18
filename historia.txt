@@ -5,3 +5,6 @@ Estamos probando el uso de los comandos de Git
 Esta es la segunda clase con comandos
 
 Veremos
+
+
+Esta en Clip
